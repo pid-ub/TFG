@@ -1,4 +1,4 @@
-# TFG
+# Treball Final del Grau d?Enginyeria Informàtica de la UB
 
 Aquest repositori conté el material dels treballs final de Grau d'Enginyeria Informàtica de la Universitat de Barcelona que s'han realitzat dins del projecte d'innovació docent "Sistema intel·ligent de suport al Tutor d’estudis". 
 
